@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130990449519",
+    "firebase_url": "https://papblfire.firebaseio.com",
+    "project_id": "papblfire",
+    "storage_bucket": "papblfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130990449519:android:3f087013866a43f0",
+        "android_client_info": {
+          "package_name": "com.papblfire.imamf.papbl_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130990449519-a77j5kshub0bqrfub9rkvroot9u3qukv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papblfire.imamf.papbl_fire",
+            "certificate_hash": "355fac96883d48e12beeccac3d4ff38071b5e793"
+          }
+        },
+        {
+          "client_id": "130990449519-2h7ceeq1lj9nos6m4orhf2hd434dhcb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFgZgW74YDZK8XKguckSwgzYIHpRD3mMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130990449519-2h7ceeq1lj9nos6m4orhf2hd434dhcb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
